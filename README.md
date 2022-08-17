@@ -29,6 +29,5 @@
 ![BusChanny's github stats](https://github-readme-stats.vercel.app/api?username=BusChanny&show_icons=true&theme=buefy)
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=pch1656)](https://solved.ac/pch1656)
 
 
